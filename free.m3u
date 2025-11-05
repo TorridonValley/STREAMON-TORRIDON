@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 CUID="14880" tvg-name="24/7: 007 James Bond Movies" tvg-logo="http://btotv.xyz:2052/images/BF1WsqO9spAUh9tuUkqJrYV3yCFQyYr4ppYWOYq2gIFDRewIx3PVytvx6Q_5v06V.png" group-title="24/7 CHANNELS",24/7: 007 James Bond Movies
+http://goldclub.tv/live/3994240538/3866616220/671403.ts
 #EXTINF:0 CUID="10169" tvg-name="HK Now Sports 4K" tvg-id="NowSports4K.hk" tvg-logo="http://btotv.xyz:2052/images/C4GQjIByd1tCEG1XU_zCH_19BYQf_SoyZ2Pmp6TArcbx5CGNdSZMTBMlvVFdXsuDbAQzhaxfW9D1y6C5tPY6gQ.png" group-title="4K EXCLUSIVE",HK Now Sports 4K
 http://goldclub.tv/live/3994240538/3866616220/366035.ts
 #EXTINF:0 CUID="10170" tvg-name="PL Eleven Sports 1 4K" tvg-id="ElevenSports14K.pl" tvg-logo="http://btotv.xyz:2052/images/DvaCP8tOfsJz3RSJHO2F3iQIanvz0Q-HWitezwMpLzHl1hG4mW3MhPGtXZJ3x1NaiWxSQ0UOfJ7-5k793ykzO9UrMgXkXvS-6GaipAEntvI.png" group-title="4K EXCLUSIVE",PL Eleven Sports 1 4K
@@ -31,5 +33,3 @@ http://goldclub.tv/live/3994240538/3866616220/405346.ts
 http://goldclub.tv/live/3994240538/3866616220/405345.ts
 #EXTINF:0 CUID="12984" tvg-name="4K: Sky Sports 2 UHD" tvg-logo="https://svgmix.com/uploads/77b137-sky-sports-main-event-uhd.svg" group-title="4K EXCLUSIVE",4K: Sky Sports 2 UHD
 http://goldclub.tv/live/3994240538/3866616220/405344.ts
-#EXTINF:0 CUID="14880" tvg-name="24/7: 007 James Bond Movies" tvg-logo="http://btotv.xyz:2052/images/BF1WsqO9spAUh9tuUkqJrYV3yCFQyYr4ppYWOYq2gIFDRewIx3PVytvx6Q_5v06V.png" group-title="24/7 CHANNELS",24/7: 007 James Bond Movies
-http://goldclub.tv/live/3994240538/3866616220/671403.ts
