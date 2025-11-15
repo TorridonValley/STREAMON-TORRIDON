@@ -6,7 +6,7 @@ function splitByGroup(filePath) {
   const lines = content.split('\n');
   
   // Create groups directory if it doesn't exist
-  const groupsDir = path.join(path.dirname(filePath), 'groups');
+  const groupsDir = path.join(path.dirname(filePath), 'FAST Providers');
   if (!fs.existsSync(groupsDir)) {
     fs.mkdirSync(groupsDir);
   }
